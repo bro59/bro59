@@ -4,17 +4,17 @@ I'm a Computer Science and Cybersecurity student at Saint Michael's College lear
 
 ## 🛠️ What I Work With
 
-- **Security Tools**: Splunk, Wireshark, Nmap, pfSense firewall administration,Snort, UFW, Suricata, Wazuh, Sysmon, Virtualization (Oracle VirtualBox and VMware Workstation)
+- **Security Tools**: Splunk, Wireshark, Nmap, pfSense firewall administration, Snort, UFW, Suricata, Wazuh, Sysmon, Virtualization (Oracle VirtualBox and VMware Workstation)
 - **Operating Systems**: Windows, Ubuntu, Kali Linux
 - **Languages**: Python, C++, C, Java, Assembly Language, PHP, SQL, CSS, HTML, JavaScript
 - **Web Frameworks**: Django, Flask
-- **DevOps tools**: Git, GitHub, XAMPP, Apache Server, GCP (Google Cloud Platform), MySQL, MongoDB(Cloud and Local)
+- **DevOps Tools**: Git, GitHub, XAMPP, Apache Server, GCP (Google Cloud Platform), MySQL, MongoDB (Cloud and Local)
 - **Security Frameworks**: NIST Cybersecurity Framework, MITRE ATT&CK, OWASP Top 10
 
 ## 🚀 What I'm Working On
 
 - Currently exploring Go's syntax, semantics, and pragmatics as part of my Programming Languages coursework, with a focus on its applications in cybersecurity
-- Building and honing network security and penetration testing skills through hands-on labs (e.g., Wireshark, Nmap, DNS query and Reconnaissance tools )
+- Building and honing network security and penetration testing skills through hands-on labs (e.g., Wireshark, Nmap, DNS query, and Reconnaissance tools )
 - Researching deep learning and NLP applications in cybersecurity, focusing on building and optimizing phishing detection models across 190k+ email records
 
 ## 📌 Featured Projects
@@ -31,4 +31,4 @@ I'm a Computer Science and Cybersecurity student at Saint Michael's College lear
 
 ---
 
-*Looking for internship and job opportunities in cybersecurity, Software Engineering, and Academic Research* 
+*Looking for internship and job opportunities in cybersecurity, software engineering, and academic research* 
