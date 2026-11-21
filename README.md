@@ -31,4 +31,4 @@ I'm a Computer Science and Cybersecurity student at Saint Michael's College lear
 
 ---
 
-*Looking for internship and job opportunities in cybersecurity, Software Engineering, and Academic Research 
+*Looking for internship and job opportunities in cybersecurity, Software Engineering, and Academic Research* 
