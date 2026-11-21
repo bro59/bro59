@@ -14,7 +14,7 @@ I'm a Computer Science and Cybersecurity student at Saint Michael's College lear
 ## 🚀 What I'm Working On
 
 - Currently exploring Go's syntax, semantics, and pragmatics as part of my Programming Languages coursework, with a focus on its applications in cybersecurity
-- Building and honing network security and penetration testing skills through hands-on labs (e.g., Wireshark, Nmap, DNS query, and Reconnaissance tools )
+- Building and honing network security and penetration testing skills through hands-on labs (e.g., Wireshark, Nmap, DNS query, and reconnaissance tools)
 - Researching deep learning and NLP applications in cybersecurity, focusing on building and optimizing phishing detection models across 190k+ email records
 
 ## 📌 Featured Projects
