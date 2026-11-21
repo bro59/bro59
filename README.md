@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Beni Mulolo Upako 👋
 
-<!--
-**bro59/bro59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Cybersecurity student at Saint Michael's College learning Threat Detection, Software Engineering, and Network Security.
 
-Here are some ideas to get you started:
+## 🛠️ What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Security Tools**: Splunk, Wireshark, Nmap, Metasploit, Burp Suite
+- **Languages**: Python, Bash, PowerShell, SQL
+- **Frameworks**: NIST Cybersecurity Framework, MITRE ATT&CK, OWASP Top 10
+
+## 🚀 What I'm Working On
+
+- Documenting security labs and CTF challenges
+- Building a home lab for penetration testing practice
+- Learning [specific skill you're currently developing]
+
+## 📌 Featured Projects
+
+Check out my [project name](link-to-repo) where I [brief description]
+
+## 📫 Let's Connect
+
+- LinkedIn: [Your Profile](https://linkedin.com/in/yourname)
+- Email: your.email@email.com
+
+---
+
+*Looking for internship opportunities in cybersecurity for Summer 
