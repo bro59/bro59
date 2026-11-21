@@ -4,13 +4,16 @@ I'm a Computer Science and Cybersecurity student at Saint Michael's College lear
 
 ## 🛠️ What I Work With
 
-- **Security Tools**: Splunk, Wireshark, Nmap, Metasploit, Burp Suite
-- **Languages**: Python, Bash, PowerShell, SQL
-- **Frameworks**: NIST Cybersecurity Framework, MITRE ATT&CK, OWASP Top 10
+- **Security Tools**: Splunk, Wireshark, Nmap, pfSense firewall administration,Snort, UFW, Suricata, Wazuh, Sysmon, Virtualization (Oracle VirtualBox and VMware Workstation)
+- **Operating Systems**: Windows, Ubuntu, Kali Linux
+- **Languages**: Python, C++, C, Java, Assembly Language, PHP, SQL, CSS, HTML, JavaScript
+- **Web Frameworks**: Django, Flask
+- **DevOps tools**: Git, GitHub, XAMPP, Apache Server, GCP (Google Cloud Platform), MySQL, MongoDB(Cloud and Local)
+- **Security Frameworks**: NIST Cybersecurity Framework, MITRE ATT&CK, OWASP Top 10
 
 ## 🚀 What I'm Working On
 
-- Documenting security labs and CTF challenges
+- 
 - Building a home lab for penetration testing practice
 - Learning [specific skill you're currently developing]
 
