@@ -9,8 +9,8 @@ I'm a Computer Science and Cybersecurity student at Saint Michael's College lear
 - **Languages**: Python, C++, C, Java, Assembly Language, PHP, SQL, CSS, HTML, JavaScript
 - **Web Frameworks**: Django, Flask
 - **DevOps Tools**: Git, GitHub, XAMPP, Apache Server, GCP (Google Cloud Platform), MySQL, MongoDB (Cloud and Local)
-- **SecuritynFrameworks**: NIST Cybersecurity Framework, MITRE ATT&CK, OWASP Top 10
-- **AI Frameworks**: Pytorch, Hugging Face Transformers, Data Analysis
+- **Security Frameworks**: NIST Cybersecurity Framework, MITRE ATT&CK, OWASP Top 10
+- **AI Frameworks**: PyTorch, Hugging Face Transformers, Pandas, Numpy
 
 ## 🚀 What I'm Working On
 
