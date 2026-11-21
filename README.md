@@ -19,7 +19,10 @@ I'm a Computer Science and Cybersecurity student at Saint Michael's College lear
 
 ## 📌 Featured Projects
 
-Check out my [Hedonometer Project](https://github.com/bro59/Hedonometer-Project) where I [worked on a set of backend systems of a replica of the hedonometer application]
+
+- **[FC Barcelona Team Summary](https://github.com/bro59/Soccer-Project)** — Built full-stack web systems to display player profiles (photos, age, nationality, and stats) in a clean UI, dynamically categorizing players by their field positions.
+- **Hedonometer Application Replica** *(Private Repository)* — Engineered backend data pipelines and systems for a sentiment-tracking web application.
+
 
 ## 📫 Let's Connect
 
