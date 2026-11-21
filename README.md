@@ -13,9 +13,9 @@ I'm a Computer Science and Cybersecurity student at Saint Michael's College lear
 
 ## 🚀 What I'm Working On
 
-- "Currently exploring Go's syntax, semantics, and pragmatics as part of my Programming Languages coursework, with a focus on its applications in cybersecurity.
-- Building and honing Network Security and Penetration Testing skills
-- Learning about the Cybersecurity applications of Natural Language Processing and Deep Learning on Phishing detection and other classification problems 
+- Currently exploring Go's syntax, semantics, and pragmatics as part of my Programming Languages coursework, with a focus on its applications in cybersecurity
+- Building and honing network security and penetration testing skills through hands-on labs (e.g., Wireshark, Nmap, DNS query and Reconnaissance tools )
+- Researching deep learning and NLP applications in cybersecurity, focusing on building and optimizing phishing detection models across 190k+ email records
 
 ## 📌 Featured Projects
 
@@ -23,9 +23,9 @@ Check out my [project name](link-to-repo) where I [brief description]
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourname)
-- Email: your.email@email.com
+- LinkedIn: [Beni Mulolo](https://www.linkedin.com/in/beni-mulolo-upako-54b369209/)
+- Email: Benimuloloupako@gmail.com
 
 ---
 
-*Looking for internship opportunities in cybersecurity for Summer 
+*Looking for internship and  opportunities in cybersecurity for Summer 
