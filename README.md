@@ -19,13 +19,13 @@ I'm a Computer Science and Cybersecurity student at Saint Michael's College lear
 
 ## 📌 Featured Projects
 
-Check out my [project name](link-to-repo) where I [brief description]
+Check out my [Hedonometer Project](https://github.com/bro59/Hedonometer-Project) where I [worked on a set of backend systems of a replica of the hedonometer application]
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Beni Mulolo](https://www.linkedin.com/in/beni-mulolo-upako-54b369209/)
+- LinkedIn: [Beni Mulolo Upako](https://www.linkedin.com/in/beni-mulolo-upako-54b369209/)
 - Email: Benimuloloupako@gmail.com
 
 ---
 
-*Looking for internship and  opportunities in cybersecurity for Summer 
+*Looking for internship and job opportunities in cybersecurity, Software Engineering, and Academic Research 
